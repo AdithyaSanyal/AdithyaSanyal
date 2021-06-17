@@ -12,7 +12,7 @@
 
 #### Languages and Tools:
 
-[![Python](https://user-images.githubusercontent.com/66916445/122389035-2059e500-cf8e-11eb-97e1-6dd2b1f35531.png)]
+![Python](https://user-images.githubusercontent.com/66916445/122389035-2059e500-cf8e-11eb-97e1-6dd2b1f35531.png)
 <!--
 **AdithyaSanyal/AdithyaSanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
