@@ -5,7 +5,7 @@
 ## I am a Computer Engineering Student and a Developer!!
 
 ![Android](https://user-images.githubusercontent.com/66916445/122392256-56e52f00-cf91-11eb-9712-815701dd73fd.png)  ![Windows](https://user-images.githubusercontent.com/66916445/122392278-5b114c80-cf91-11eb-997c-ebf8179026c9.png)
-#### Loves to code, an ambivert and a Flutter evangelist! 
+#### I love programming. Ambivert and Flutter evangelist
 
 #### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)!
 
