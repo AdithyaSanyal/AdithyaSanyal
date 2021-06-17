@@ -1,6 +1,6 @@
 # Hi there, I'm Adithya Sanyal👋
 
-#### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+#### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=AdithyaSanyal.AdithyaSanyal)
 
 ## I am a Computer Engineering Student and a Developer!!
 
