@@ -1,7 +1,4 @@
-### Hi there 👋, I am Adithya
-
-
-You can connect with me on
+### Hi there I'm Adithya👋
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>   
 <!--
