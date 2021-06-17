@@ -1,5 +1,7 @@
 # Hi there, I'm Adithya Sanyal👋
 
+#### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ## I am a Computer Engineering Student and a Developer!!
 
 ![Android](https://user-images.githubusercontent.com/66916445/122392256-56e52f00-cf91-11eb-9712-815701dd73fd.png)  ![Windows](https://user-images.githubusercontent.com/66916445/122392278-5b114c80-cf91-11eb-997c-ebf8179026c9.png)
