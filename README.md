@@ -8,7 +8,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adithy
 
 Connect with me on:
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  <img alt="Kaggle" src="https://img.shields.io/badge/adithyasanyal-%20BFFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
+[![Gmail](https://user-images.githubusercontent.com/66916445/122386670-bb9d8b00-cf8b-11eb-978a-2e429dde48cf.png)][1]
 <!--
 **AdithyaSanyal/AdithyaSanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: https://mail.google.com/mail/u/0/#inbox?compose=new
