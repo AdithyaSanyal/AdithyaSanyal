@@ -5,16 +5,16 @@
 ## I am a Computer Engineering Student and a Developer!!
 
 ![Android](https://user-images.githubusercontent.com/66916445/122392256-56e52f00-cf91-11eb-9712-815701dd73fd.png)  ![Windows](https://user-images.githubusercontent.com/66916445/122392278-5b114c80-cf91-11eb-997c-ebf8179026c9.png)
-#### I love programming. Ambivert and Flutter evangelist
+#### I love programming. Am an Ambivert and a Flutter evangelist
 
 #### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)!
 
-Talking about personal stuff:
+Talking about the personal stuff:
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing
 - 💬 Ask me about anything. Happy to help!
 
-#### My GitHub Stats:
+#### My GitHub Stats📈:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
 
