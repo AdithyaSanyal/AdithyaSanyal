@@ -3,8 +3,7 @@
 
 You can connect with me on
 
-
-<img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Skype" src="https://img.shields.io/badge/Adithya Sanyal-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>  <img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+<img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>   
 <!--
 **AdithyaSanyal/AdithyaSanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
