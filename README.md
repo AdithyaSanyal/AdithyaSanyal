@@ -1,6 +1,6 @@
 ### Hi there, I'm Adithya Sanyal👋
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  <img alt="Kaggle" src="https://img.shields.io/badge/adithyasanyal-%20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
+<img alt="LinkedIn" src="https://img.shields.io/badge/AdithyaSanyal-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/adithyasanyal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/adithyasanyal2410-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  <img alt="Kaggle" src="https://img.shields.io/badge/adithyasanyal-%20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
 
 ## I am a Computer Engineering Student and a Developer!!
 
