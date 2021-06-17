@@ -12,7 +12,7 @@
 
 #### Languages and Tools:
 
-![Python](https://user-images.githubusercontent.com/66916445/122389035-2059e500-cf8e-11eb-97e1-6dd2b1f35531.png)  ![HTML5](https://user-images.githubusercontent.com/66916445/122389052-25b72f80-cf8e-11eb-984b-6efb3d4117bb.png)  ![CSS3](https://user-images.githubusercontent.com/66916445/122389064-294ab680-cf8e-11eb-98db-e371fdffdb10.png)  ![C-Language](https://user-images.githubusercontent.com/66916445/122389088-2f409780-cf8e-11eb-8678-504f1705a8a4.png)
+![Python](https://user-images.githubusercontent.com/66916445/122389035-2059e500-cf8e-11eb-97e1-6dd2b1f35531.png)  ![C-Language](https://user-images.githubusercontent.com/66916445/122389088-2f409780-cf8e-11eb-8678-504f1705a8a4.png)  ![HTML5](https://user-images.githubusercontent.com/66916445/122389052-25b72f80-cf8e-11eb-984b-6efb3d4117bb.png)  ![CSS3](https://user-images.githubusercontent.com/66916445/122389064-294ab680-cf8e-11eb-98db-e371fdffdb10.png)  ![JavaScript](https://user-images.githubusercontent.com/66916445/122389597-b857ce80-cf8e-11eb-8243-62dfe1695246.png)
 <!--
 **AdithyaSanyal/AdithyaSanyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
