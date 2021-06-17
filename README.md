@@ -8,13 +8,16 @@
 #### I love programming. Ambivert and Flutter evangelist
 
 #### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)!
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
-
 
 Talking about personal stuff:
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing
 - 💬 Ask me about anything. Happy to help!
+
+#### My GitHub Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
+
 
 #### Connect with me on:
 
