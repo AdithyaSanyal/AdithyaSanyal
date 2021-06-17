@@ -1,6 +1,6 @@
 ### Hi there, I'm Adithya Sanyal👋
 
-## I am a Computer Engineering Student and a Developer!!
+##### I am a Computer Engineering Student and a Developer!!
 
 Loves to code, an ambivert and a Flutter evangelist! 
 
