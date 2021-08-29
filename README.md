@@ -33,6 +33,18 @@
   | :---     |  :----:  |
   |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|Adithya#4601|
 
+- **Miscellaneous** -&nbsp;
+  [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=222&logo=spotify)](https://open.spotify.com/user/9tavn5oms8mhelp46a1ms6akt)
+  [![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=222&logo=reddit)](https://www.reddit.com/user/AdiSan2410)
+
+## 🛠️ Technical Skill Set
+
+- **Languages** -&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-darkblue?logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow)
+  ![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=red)
+
 #### My GitHub Stats📈:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
