@@ -1,4 +1,4 @@
-# Hi there, I'm Adithya Sanyal👋
+<h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
 
 #### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=AdithyaSanyal.AdithyaSanyal)
 
