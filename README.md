@@ -13,6 +13,8 @@
 - 🔭 Some of my recent projects
 
 [![DJ Events Portal](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=dj-events-rn&show_owner=true&theme=dark)](https://github.com/djunicode/dj-events-rn)
+[![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Invisibility-Cloak&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Invisibility-Cloak)
+
 #### My GitHub Stats📈:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
