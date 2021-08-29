@@ -1,7 +1,6 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
 <h2 align="center">I am a Computer Engineering Student and a Developer!!</h2>
 
-
 # Talking about the personal stuff:
 
 - 🧍 I love programming.An Ambivert and a Flutter evangelist
@@ -16,6 +15,24 @@
 [![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Invisibility-Cloak&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Invisibility-Cloak)
 [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Sudoku-Solver&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Sudoku-Solver)
 [![Resume-Screening](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Resume-Screening&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Resume-Screening)
+
+## ✉️ Connect With Me
+
+- **Socials** -&nbsp;
+  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:adithyasanyal@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)
+  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/adithyasanyal2410/)
+  [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=222&logo=twitter)](https://twitter.com/adithya_sanyal)
+
+- **Tech** -&nbsp;
+  [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/AdithyaSanyal/)
+  [![Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&color=222&logo=kaggle)](https://www.kaggle.com/adithyasanyal/)
+
+- **Gaming** -&nbsp;
+  | Platform | Username |
+  | :---     |  :----:  |
+  |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|Adithya#4601|
+
 #### My GitHub Stats📈:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
