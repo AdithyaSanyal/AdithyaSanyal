@@ -1,13 +1,14 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
-<h2 align="center">I am a Computer Engineering Student and a Developer!!</h2>
+<h2 align="center">Student, Learner, Developer</h2>
 
 # Talking about the personal stuff:
 
-- 🧍 I love programming.An Ambivert and a Flutter evangelist
+- 🧍 I love programming.
+- 🌞 An Ambivert and a Flutter evangelist
 - 🌱 I’m currently learning MERN Stack Web Development
 - 🚧 I recently learned about Deep Learning,Natural Language Processing and Computer Vision
 - 🎓 Third Year Computer Engineering Student at D.J Sanghvi College of Engineering
-- 🤵 App Development Mentor at [DJ Unicode](https://www.linkedin.com/company/djunicode/mycompany/) and App Infotech Head at [DJ ACM](https://www.linkedin.com/company/dj-sanghvi-acm/), student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) for the year 2021-2022
+- 🤵 App Development Mentor at [DJ Unicode](https://www.linkedin.com/company/djunicode/mycompany/) and App Infotech Head at [DJ ACM](https://www.linkedin.com/company/dj-sanghvi-acm/) for the year 2021-2022
 - 💬 Ask me about anything. Happy to help!
 - 🔭 Some of my recent projects
 
@@ -16,28 +17,23 @@
 [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Sudoku-Solver&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Sudoku-Solver)
 [![Resume-Screening](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Resume-Screening&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Resume-Screening)
 
-## ✉️ Connect With Me
+## 🔗 You can connect with me on
 
-- **Socials** -&nbsp;
-  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:adithyasanyal@gmail.com)
-  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)
-  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/adithyasanyal2410/)
-  [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=222&logo=twitter)](https://twitter.com/adithya_sanyal)
+[![GMail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:adithyasanyal@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/adithyasanyal2410/)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=222&logo=twitter)](https://twitter.com/adithya_sanyal)
+[![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)](https://discord.com/channels/@me/758613354251026433)
 
-- **Tech** -&nbsp;
-  [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/AdithyaSanyal/)
-  [![Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&color=222&logo=kaggle)](https://www.kaggle.com/adithyasanyal/)
+## 🖥️ To code and collaborate check out
+[![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/AdithyaSanyal/)
+[![Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&color=222&logo=kaggle)](https://www.kaggle.com/adithyasanyal/)
 
-- **Gaming** -&nbsp;
-  | Platform | Username |
-  | :--- | :----: |
-  |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|Adithya#4601|
-
-- **Miscellaneous** -&nbsp;
+- **Others** -&nbsp;
   [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=222&logo=spotify)](https://open.spotify.com/user/9tavn5oms8mhelp46a1ms6akt)
   [![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=222&logo=reddit)](https://www.reddit.com/user/AdiSan2410)
 
-## 🛠️ Technical Skill Set
+## 💻 Technical Skills
 
 - **Languages** -&nbsp;
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
@@ -82,7 +78,7 @@
 
 <div align="center">
   <h4>General Statistics</h4>
-  <img alt="GitHub General Stats" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=prussian&bg_color=0D1117&text_color=C9D1D9&icon_color=C4E3FF" />
+  <img alt="GitHub General Stats" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&count_private=true&show_icons=true&hide_title=true&hide_border=false&theme=synthwave" />
   <hr />
   
   <h4>Most Used Languages</h4>
