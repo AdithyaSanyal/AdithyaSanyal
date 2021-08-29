@@ -2,17 +2,17 @@
 <h2 align="center">I am a Computer Engineering Student and a Developer!!</h2>
 
 
-#### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adithya-sanyal-9371a8191/)!
+# Talking about the personal stuff:
 
-Talking about the personal stuff:
 - 🧍 I love programming.An Ambivert and a Flutter evangelist
-- 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning MERN Stack Web Development
 - 🚧 I recently learned about Deep Learning,Natural Language Processing and Computer Vision
 - 🎓 Third Year Computer Engineering Student at D.J Sanghvi College of Engineering
 - 🤵 App Development Mentor at [DJ Unicode](https://www.linkedin.com/company/djunicode/mycompany/) and App Infotech Head at [DJ ACM](https://www.linkedin.com/company/dj-sanghvi-acm/), student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) for the year 2021-2022
 - 💬 Ask me about anything. Happy to help!
+- 🔭 Some of my recent projects
 
+[![DJ Events Portal](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=dj-events-rn&show_owner=true&theme=dark)](https://github.com/djunicode/dj-events-rn)
 #### My GitHub Stats📈:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdithyaSanyal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&layout=compact)](https://github.com/AdithyaSanyal/)
