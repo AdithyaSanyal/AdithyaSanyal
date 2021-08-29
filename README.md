@@ -12,7 +12,7 @@
 - 💬 Ask me about anything. Happy to help!
 - 🔭 Some of my recent projects
 
-[![DJ Events Portal](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=dj-events-rn&show_owner=true&theme=dark)](https://github.com/djunicode/dj-events-rn)
+[![DJ Events Portal](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=dj-events-rn&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/dj-events-rn)
 [![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Invisibility-Cloak&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Invisibility-Cloak)
 
 #### My GitHub Stats📈:
