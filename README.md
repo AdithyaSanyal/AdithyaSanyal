@@ -30,7 +30,7 @@
 
 - **Gaming** -&nbsp;
   | Platform | Username |
-  | :---     |  :----:  |
+  | :--- | :----: |
   |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|Adithya#4601|
 
 - **Miscellaneous** -&nbsp;
@@ -40,10 +40,43 @@
 ## 🛠️ Technical Skill Set
 
 - **Languages** -&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-darkblue?logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow)
-  ![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=red)
+  ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
+  ![C](https://img.shields.io/static/v1?label=&message=C&color=222&logo=c)
+  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
+  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=222&logo=java&logoColor=007396)
+  ![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=222&logo=dart&logoColor=007396)
+- **Frameworks/Libraries** -&nbsp;
+  ![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&color=222&logo=react)
+  ![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=222&logo=flutter)
+  ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=222&logo=nodedotjs)
+  ![Express](https://img.shields.io/static/v1?label=&message=Express&color=222&logo=express)
+  ![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=222&logo=flask)
+- **Databases** -&nbsp;
+  ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=222&logo=mongodb)
+  ![Firestore](https://img.shields.io/static/v1?label=&message=Firestore&color=222&logo=firebase)
+  ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=222&logo=mysql)
+- **Machine Learning** -&nbsp;
+  ![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=222&logo=tensorflow)
+  ![Scikit-Learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=222&logo=scikit-learn)
+  ![Keras](https://img.shields.io/static/v1?label=&message=Keras&color=222&logo=keras)
+  ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=222&logo=numpy)
+  ![Pandas](https://img.shields.io/static/v1?label=&message=pandas&color=222&logo=pandas)
+  ![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=222&logo=opencv)
+- **Tools** -&nbsp;
+  ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=222&logo=visualstudiocode&logoColor=007ACC)
+  ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=222&logo=postman)
+  ![Slack](https://img.shields.io/static/v1?label=&message=Slack&color=222&logo=slack&logoColor=601B61)
+  ![Anaconda](https://img.shields.io/static/v1?label=&message=Anaconda&color=222&logo=anaconda)
+  ![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=222&logo=jupyter)
+- **Miscellaneous** -&nbsp;
+  ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
+  ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=222&logo=css3&logoColor=1572B6)
+  ![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=222&logo=npm)
+  ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=222&logo=redux&logoColor=764ABC)
+  ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=222&logo=firebase)
+  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=222&logo=git)
+  ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
+  ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)
 
 #### My GitHub Stats📈:
 
