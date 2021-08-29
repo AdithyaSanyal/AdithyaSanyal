@@ -26,6 +26,7 @@
 [![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)](https://discord.com/channels/@me/758613354251026433)
 
 ## 🖥️ To code and collaborate check out
+
 [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/AdithyaSanyal/)
 [![Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle&color=222&logo=kaggle)](https://www.kaggle.com/adithyasanyal/)
 
@@ -91,5 +92,7 @@
   
   <h4>Streak Statistics</h4>
   <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=AdithyaSanyal&theme=highcontrast&background=000000&dates=D837FF&sideNums=D837FF&border=39FF14&sideLabels=85E301&currStreakLabel=85E301&currStreakNum=D837FF&stroke=85E301&ring=A80AFF&fire=D837FF" />
+
+![Metrics](https://github.com/AdithyaSanyal/AdithyaSanyal/blob/master/github-metrics.svg)
 
 </div>
