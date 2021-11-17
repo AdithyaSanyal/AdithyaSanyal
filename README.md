@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MERN Stack Web Development
 - 🚧 I recently learned about Deep Learning,Natural Language Processing and Computer Vision
 - 🎓 Third Year Computer Engineering Student at D.J Sanghvi College of Engineering
-- 🤵 App Development Mentor at [DJ Unicode](https://www.linkedin.com/company/djunicode/mycompany/)(@djunicode) and App Infotech Head at [DJ ACM](https://www.linkedin.com/company/dj-sanghvi-acm/) for the year 2021-2022
+- 🤵 App Development Mentor at [DJ Unicode](https://www.linkedin.com/company/djunicode/mycompany/) and App Infotech Head at [DJ ACM](https://www.linkedin.com/company/dj-sanghvi-acm/) for the year 2021-2022
 - 💬 Ask me about anything. Happy to help!
 - 🔭 Some of my recent projects
 
