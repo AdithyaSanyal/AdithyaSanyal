@@ -1,7 +1,7 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
-<h2 align="center">Student, Learner, Developer</h2>
+<h2 align="center">Student, Learner, Developer <img src="./globe.gif" width="30"/></h2>
 
-<img src="./globe.gif" width="30"/>
+
 # Talking about the personal stuff:
 
 - 🧍 I love programming.
