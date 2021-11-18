@@ -84,7 +84,7 @@
   <hr />
   
   <h4>Most Used Languages</h4>
-  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&card_width=600&hide_title=true&hide_border=true&langs_count=8&bg_color=0D1117&text_color=C9D1D9" />
+  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&card_width=600&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&layout=compact" />
   <hr />
   
   <h4>Contribution Graph</h4>
