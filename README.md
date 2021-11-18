@@ -2,6 +2,7 @@
 <h2 align="center">Student, Learner, Developer</h2>
 
 <img src="./globe.gif" width="30"/>
+
 # Talking about the personal stuff:
 
 - 🧍 I love programming.
