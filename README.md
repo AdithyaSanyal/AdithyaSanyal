@@ -1,6 +1,7 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
 <h2 align="center">Student, Learner, Developer</h2>
 
+<img src="./globe.gif" width="30"/>
 # Talking about the personal stuff:
 
 - 🧍 I love programming.
@@ -97,16 +98,5 @@
 ![Metrics](https://github.com/AdithyaSanyal/AdithyaSanyal/blob/main/github-metrics.svg)
 
 </div>
-
-<td align="center">
-      <a href="https://benyou.me">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
-        <strong>Visit my personal website </strong>
-    </td>
 
 <!-- ReadMe Complete! -->
