@@ -1,5 +1,5 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
-<h2 align="center">Student, Learner, Developer <a href="https://adithyasanyal.github.io/adithya_portfolio.github.io/"><img src="./globe.gif" width="30"/></a></h2>
+<h2 align="center">Student, Learner, Developer <a href="https://adithyasanyal.github.io/adithya_portfolio.github.io/"><img src="./dev.gif"/></a></h2>
 
 
 # Talking about the personal stuff:
