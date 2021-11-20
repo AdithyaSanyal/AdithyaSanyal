@@ -1,5 +1,5 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
-<h2 align="center">Student, Learner, Developer <img src="./dev.gif" width="30"/></h2>
+<h2 align="center">Student, Learner, Developer <a href="https://adithyasanyal.github.io/adithya_portfolio.github.io/"><img src="./dev.gif" width="30"/></a></h2>
 
 
 # Talking about the personal stuff:
@@ -84,7 +84,7 @@
   <hr />
   
   <h4>Most Used Languages</h4>
-  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&card_width=600&hide_title=true&hide_border=true&langs_count=8&bg_color=0D1117&text_color=C9D1D9" />
+  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaSanyal&card_width=600&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&layout=compact" />
   <hr />
   
   <h4>Contribution Graph</h4>
