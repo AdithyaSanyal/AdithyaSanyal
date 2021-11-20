@@ -1,7 +1,7 @@
 <h1 align="center" id="header">Hi there, I'm Adithya Sanyal <img src="./wavingHand.gif" width="30"/></h1>
 <h2 align="center">Student, Learner, <a href="https://adithyasanyal.github.io/adithya_portfolio.github.io/">Developer</a></h2>
 
-<img src="./dev.gif"/>
+<img src="./dev.gif" width="33%"/>
 
 # Talking about the personal stuff:
 
