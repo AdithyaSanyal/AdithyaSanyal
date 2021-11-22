@@ -3,6 +3,8 @@
 
 <img src="./web.gif" width="33%" height="25%"/><img src="./dev.gif" width="33%" height="25%"/><img src="./mobile.gif" width="33%" height="5%"/>
 
+![](https://komarev.com/ghpvc/?username=AdithyaSanyal&color=blueviolet&style=plastic)
+
 # Talking about the personal stuff:
 
 - 🧍 I love programming.
