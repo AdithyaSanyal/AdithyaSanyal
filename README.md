@@ -77,6 +77,10 @@
   ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
   ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)
 
+## 👨‍💻 Coding Statistics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📈 GitHub Statistics
 
 <div align="center">
