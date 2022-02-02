@@ -19,7 +19,7 @@
 [![DJ Events Portal](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=dj-events-rn&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/dj-events-rn)
 [![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Invisibility-Cloak&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Invisibility-Cloak)
 [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Sudoku-Solver&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Sudoku-Solver)
-[![Resume-Screening](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Resume-Screening&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Resume-Screening)
+[![Cryptocurrency Web App](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaSanyal&repo=Crypto-Web-App&show_owner=true&theme=dark)](https://github.com/AdithyaSanyal/Crypto-Web-App)
 
 ## 🔗 You can connect with me on
 
