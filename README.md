@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AdithyaSanyal&color=blueviolet&style=plastic)
 
-# Talking about the personal stuff:
+# Talking about the personal stuff 🙆‍♂️:
 
 - 🧍 I love programming.
 - 🌞 An Ambivert and a Flutter evangelist
@@ -38,7 +38,7 @@
   [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=222&logo=spotify)](https://open.spotify.com/user/9tavn5oms8mhelp46a1ms6akt)
   [![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=222&logo=reddit)](https://www.reddit.com/user/AdiSan2410)
 
-## 💻 Technical Skills
+## 💻 Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 - **Languages** -&nbsp;
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
