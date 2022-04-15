@@ -83,12 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr            ██████████████████░░░░░░░   72.32 %
-Python       12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Groovy       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-YAML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
