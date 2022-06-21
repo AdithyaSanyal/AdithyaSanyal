@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1094" class="">
     <defs>
         <style/>
     </defs>
@@ -1256,21 +1256,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">djunicode/Audioquorum-RN</span>
+                                        Pushed 11 commits in
+                                        <span class="repo">djunicode/Audioquorum-Web</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">backend</span></div>
                                     <div class="commit">
-                                        <div class="sha">#da1419b</div>
-                                        <div class="message">Merge pull request #9 from Yashs1623/dev
+                                        <div class="sha">#61f64e5</div>
+                                        <div class="message">Merge pull request #42 from rosita-dmello/backend
 
-Fetched and rendered scheduled quizes</div>
+API to view all subjects</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b607989</div>
-                                        <div class="message">Fetched and rendered scheduled quizes</div>
+                                        <div class="sha">#f56e084</div>
+                                        <div class="message">Create an API to view all subjects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f43027</div>
+                                        <div class="message">Merge branch 'backend' of https://github.com/djunicode/Audioquorum-Web into backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aae064e</div>
+                                        <div class="message">Change moment js timezone to IST</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7ffcaa</div>
+                                        <div class="message">Merge branch 'backend' of https://github.com/djunicode/Audioquorum-Web into backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d778dc</div>
+                                        <div class="message">Merge branch 'backend' of https://github.com/djunicode/Audioquorum-Web into backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a4b706</div>
+                                        <div class="message">Merge branch 'backend' of https://github.com/djunicode/Audioquorum-Web into backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b72756d</div>
+                                        <div class="message">Fix minor bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7985263</div>
+                                        <div class="message">Improve the code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7363dac</div>
+                                        <div class="message">Merge branch 'backend' of https://github.com/djunicode/Audioquorum-Web into backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a06baf2</div>
+                                        <div class="message">Minor changes in test controller</div>
                                     </div>
                                 </div>
                             </section>
@@ -1283,12 +1319,12 @@ Fetched and rendered scheduled quizes</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 Fetched and rendered scheduled quizes</span>
+                                        <span class="issue">#42 API to view all subjects</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Yashs1623 in <span class="repo">djunicode/Audioquorum-RN</span></div>
-                                    <div>2 files changed <span class="code">++58 --45</span></div>
+                                    <div>opened by rosita-dmello in <span class="repo">djunicode/Audioquorum-Web</span></div>
+                                    <div>2 files changed <span class="code">++46 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1300,20 +1336,20 @@ Fetched and rendered scheduled quizes</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">djunicode/dj-grouping-RN</span>
+                                        <span class="repo">djunicode/Audioquorum-RN</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f719a19</div>
-                                        <div class="message">Merge pull request #30 from dishantzaveri/dev
+                                        <div class="sha">#65045c0</div>
+                                        <div class="message">Merge pull request #12 from tush1308/dev
 
-final touch</div>
+Some bugs fixed</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b5d8bca</div>
-                                        <div class="message">final touch</div>
+                                        <div class="sha">#ddabb75</div>
+                                        <div class="message">Some bugs fixed</div>
                                     </div>
                                 </div>
                             </section>
@@ -1326,12 +1362,12 @@ final touch</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#30 final touch</span>
+                                        <span class="issue">#12 Some bugs fixed</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by dishantzaveri in <span class="repo">djunicode/dj-grouping-RN</span></div>
-                                    <div>9 files changed <span class="code">++273 --217</span></div>
+                                    <div>opened by tush1308 in <span class="repo">djunicode/Audioquorum-RN</span></div>
+                                    <div>1 file changed <span class="code">++10 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1343,12 +1379,12 @@ final touch</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#39 Integrated create test api</span>
+                                        <span class="issue">#11 appeared quizzes displayed</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by harsh0989 in <span class="repo">djunicode/Audioquorum-Web</span></div>
-                                    <div>2 files changed <span class="code">++81 --20</span></div>
+                                    <div>opened by tush1308 in <span class="repo">djunicode/Audioquorum-RN</span></div>
+                                    <div>2 files changed <span class="code">++76 --58</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1357,7 +1393,7 @@ final touch</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2022, 06:48:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 18:03:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
